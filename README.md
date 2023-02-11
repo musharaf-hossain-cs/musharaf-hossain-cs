@@ -21,14 +21,6 @@ In addition to my technical skills, I also have a strong foundation in algorithm
 - Application Development
 - Artificial Intelligence
 
-## Skills
-
-- Proficient in Java, Python, and C++
-- Experience with front-end development using HTML, CSS, and JavaScript
-- Familiar with database systems and SQL
-- Knowledge of algorithms and data structures
-- Strong problem-solving and critical thinking skills
-
 ## Here are a few of the projects I've worked on:
 
 - EasyShop
