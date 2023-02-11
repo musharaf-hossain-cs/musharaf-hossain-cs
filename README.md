@@ -7,6 +7,7 @@ I've spent the past few years learning and developing my skills, both through my
 In addition to my technical skills, I also have a strong foundation in algorithms and data structures, as well as the problem-solving and critical thinking skills that are essential for any successful software engineer. I'm always looking for new challenges and opportunities to grow as a programmer, and I'm eager to put my skills to use in real-world projects.
 
 ## Skills
+
 - Proficient in Java, Python, and C++
 - Experience with front-end development using HTML, CSS, and JavaScript
 - Experience with back-end development using node.js and django
@@ -16,6 +17,7 @@ In addition to my technical skills, I also have a strong foundation in algorithm
 - Strong problem-solving and critical thinking skills
 
 ## Interests: 
+
 - Web Development
 - Games Development
 - Application Development
@@ -24,15 +26,22 @@ In addition to my technical skills, I also have a strong foundation in algorithm
 ## Here are a few of the projects I've worked on:
 
 - EasyShop
+
 Repo: https://github.com/musharaf-hossain-cs/easy-shop
+
 EasyShop.com is an e-commerce platform designed to make online shopping easier, faster and more convenient. The platform will offer a wide range of products across various categories, with a focus on quality and affordability.
 
 - Easy Work - A Project Management Tool 
+
 Frontend Repo: https://github.com/musharaf-hossain-cs/easy-work-frontend
+
 Backend Repo: https://github.com/Jayanta47/EasyWork
+
 This project aims to create a comprehensive platform for managing projects, tasks, and subtasks, milestones, budget estimation and cost management. The system will streamline the project management process by providing an all-in-one solution that can be accessed from any device with internet access.
 - eTicket - Buy Ticket Online
+
 Repo:
+
 eTicket is a ticket management system that aims to make the process of buying and using tickets more efficient and convenient. With eTicket, users can purchase tickets for events, concerts, and more, and access their tickets on their mobile devices.
 
 
