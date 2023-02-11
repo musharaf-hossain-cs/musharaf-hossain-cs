@@ -35,20 +35,16 @@ This project aims to create a comprehensive platform for managing projects, task
 Repo:
 eTicket is a ticket management system that aims to make the process of buying and using tickets more efficient and convenient. With eTicket, users can purchase tickets for events, concerts, and more, and access their tickets on their mobile devices.
 
-## Contact Me
 
-If you have any questions or would like to collaborate on a project, feel free to reach out to me at musharaf.hossain.cs@gmail.com. I'd love to hear from you!
+## Contact Me 💬
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/musharaf-hossain-cs)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Md.Musharaf.Hossain.3073/)  
+If you have any questions or would like to collaborate on a project, feel free to reach out to me. I'd love to hear from you!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/musharaf-hossain-cs)](https://github.com/anuraghazra/github-readme-stats)
+You can find me on:
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/musharaf-hossain-cs&show_icons=true)  
+- 📧 Email: musharaf.hossain.cs@gmail.com / mdmusharaf8071@gmail.com
+- (https://iconscout.com/icon/facebook-269) Facebook: https://www.facebook.com/Md.Musharaf.Hossain.3073/
+- Whatsapp: +8801909753098
+- Telegram: +8801909753098
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/musharaf-hossain-cs)  
-
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/musharaf-hossain-cs)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/musharaf-hossain-cs)  
-
-![Profile views](https://gpvc.arturio.dev/https://github.com/musharaf-hossain-cs)  
+I look forward to connecting! 🤝
