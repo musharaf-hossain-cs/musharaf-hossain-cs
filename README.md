@@ -42,8 +42,8 @@ If you have any questions or would like to collaborate on a project, feel free t
 
 You can find me on:
 
-- 📧 Email: musharaf.hossain.cs@gmail.com / mdmusharaf8071@gmail.com
-- (https://iconscout.com/icon/facebook-269) Facebook: https://www.facebook.com/Md.Musharaf.Hossain.3073/
+- Email: musharaf.hossain.cs@gmail.com / mdmusharaf8071@gmail.com
+- Facebook: https://www.facebook.com/Md.Musharaf.Hossain.3073/
 - Whatsapp: +8801909753098
 - Telegram: +8801909753098
 
