@@ -39,7 +39,7 @@ eTicket is a ticket management system that aims to make the process of buying an
 
 If you have any questions or would like to collaborate on a project, feel free to reach out to me at musharaf.hossain.cs@gmail.com. I'd love to hear from you!
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/musharaf-hossain-cs)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/Md.Musharaf.Hossain.3073/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/musharaf-hossain-cs)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Md.Musharaf.Hossain.3073/)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/musharaf-hossain-cs)](https://github.com/anuraghazra/github-readme-stats)
 
