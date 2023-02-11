@@ -25,20 +25,20 @@ In addition to my technical skills, I also have a strong foundation in algorithm
 
 ## Here are a few of the projects I've worked on:
 
-- EasyShop
+- ### EasyShop
 
 Repo: https://github.com/musharaf-hossain-cs/easy-shop
 
 EasyShop.com is an e-commerce platform designed to make online shopping easier, faster and more convenient. The platform will offer a wide range of products across various categories, with a focus on quality and affordability.
 
-- Easy Work - A Project Management Tool 
+- ### Easy Work - A Project Management Tool 
 
 Frontend Repo: https://github.com/musharaf-hossain-cs/easy-work-frontend
 
 Backend Repo: https://github.com/Jayanta47/EasyWork
 
 This project aims to create a comprehensive platform for managing projects, tasks, and subtasks, milestones, budget estimation and cost management. The system will streamline the project management process by providing an all-in-one solution that can be accessed from any device with internet access.
-- eTicket - Buy Ticket Online
+- ### eTicket - Buy Ticket Online
 
 Repo:
 
