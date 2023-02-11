@@ -8,7 +8,7 @@ In addition to my technical skills, I also have a strong foundation in algorithm
 
 ## Skills
 
-- Proficient in Java, Python, and C++
+- Proficient in C/C++, C#, Java, Python, JavaScript
 - Experience with front-end development using HTML, CSS, and JavaScript
 - Experience with back-end development using node.js and django
 - Has work experiences with frameworks like React.js, Vue.js
