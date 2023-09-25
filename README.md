@@ -27,7 +27,7 @@ In addition to my technical skills, I also have a strong foundation in algorithm
 
 - ### EasyShop
 
-Repo: https://github.com/musharaf-hossain-cs/easy-shop
+Repo: https://github.com/musharaf-hossain-cs/easy-shop-combined
 
 EasyShop.com is an e-commerce platform designed to make online shopping easier, faster and more convenient. The platform will offer a wide range of products across various categories, with a focus on quality and affordability.
 
